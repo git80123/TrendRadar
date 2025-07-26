@@ -1,9 +1,8 @@
 DeepSeek
 
 ai
-!gai
-
 人工智能
+!gai
 
 国务院
 
